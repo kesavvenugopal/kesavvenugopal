@@ -1,6 +1,10 @@
 # 💫 About Me:
-HI
+Hi there! I'm Kesav Venugopal, an aspiring Data Scientist/ AI-ML Developer. I'm passionate about exploring Data Driven problems. I love working on Machine Learning and Deep Learning. And I try to be updated on my tech stack.
 
+> I'm currently working on an End to End ML project on Diabetes Prediction, deployed on GCP using Flask, HTML-CSS-JS and Python (and it's libraries). Check out the progress in the repo!
+> I'm currently learning cloud platforms (trying out GCP, maybe AWS next)
+> I am more interested in the Machine Learning aspects of Data Science
+> My hobbies are gaming (only CS2 lol), travelling, fitness and Spotify 24/7
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kesav-venugopal-360442219) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kesavvenugopal@gmail.com) 
@@ -24,4 +28,4 @@ HI
 ---
 [![](https://visitcount.itsvg.in/api?id=kesavvenugopal&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
